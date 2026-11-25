@@ -9,6 +9,6 @@ int main() {
 
 
     cout << "Basil Hi";
-    cout << "Basil Hi";
+    cout << "Mohammed Hi";
     return 0;
 }
