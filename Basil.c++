@@ -10,5 +10,8 @@ int main() {
 
     cout << "Basil Hi";
     cout << "Mohammed Hi";
+
+
+    cout << "Try git amment command!!";
     return 0;
 }
