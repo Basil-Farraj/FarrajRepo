@@ -2,18 +2,10 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
-    cout << "Hello, World!" << endl;
-    cout << "Hello, World!" << endl;
-    cout << "Hello, World!" << endl;
+    
+    
 
-
-    cout << "Basil Hi";
-    cout << "Mohammed Hi";
-
-
-
-    cout << "Try git amment command!!";
+    cout << "MOhammed Abu Headhoud I love you !!";
 
     return 0;
 }
