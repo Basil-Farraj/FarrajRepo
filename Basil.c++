@@ -3,14 +3,8 @@ using namespace std;
 
 int main() {
     
-    
 
-    cout << "MOhammed Abu Headhoud I love you !!";
-
-    cout << "I started with you at 2025-9-20";
-
-
-    cout << "TEST";
+    cout << "TEST1";
     
     return 0;
 }
